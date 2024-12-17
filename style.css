@@ -1,0 +1,13 @@
+html, body, canvas {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+}
+
+#renderer {
+  background-color: #293038e1;
+  position: absolute;
+  touch-action: none;
+}
